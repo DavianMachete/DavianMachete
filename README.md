@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h3> 👨‍💻 David Harutyunayn | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+  <h3>              👨‍💻 David Harutyunayn | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
 </p>
 
 
