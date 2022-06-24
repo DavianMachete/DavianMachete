@@ -2,7 +2,9 @@
   <img src="images/github.gif" alt="Hello, I am David" />
 </p>
 
-<h3> 👨‍💻 David Harutyunayn | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+<p align="center">
+  <h3> 👨‍💻 David Harutyunayn | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+</p>
 
 
 ### Nerdy joke of the day
