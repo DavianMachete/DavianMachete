@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/github.gif" alt="Hello, I am Sofiya" />
+  <img src="images/github.gif" alt="Hello, I am David" />
 </p>
 
-<h3> 👩‍💻 Sofiya Chobanyan | 💻 Web Scraping and Back End Developer | 📍 Yerevan, Armenia </h3>
+<h3> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
 
 
 ### Nerdy joke of the day
