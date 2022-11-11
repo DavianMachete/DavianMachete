@@ -7,19 +7,15 @@
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
-### 💫 Latest Activities
 
-<!--START_SECTION:activity-->
-`[11/09 01:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `176` commits in [DavianMachete/DavianMachete](https://github.com/DavianMachete/DavianMachete)
 
-</details>
-<!--END_SECTION:activity-->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davianmachete&label=Profile%20views&color=0e75b6&style=flat" alt="davianmachete" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davianmachete" alt="davianmachete" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/17ipxvbKO3sEwGeavvLRzDiNpVHmrwvxpY-XkKddUzqc/edit?usp=sharing](https://docs.google.com/document/d/17ipxvbKO3sEwGeavvLRzDiNpVHmrwvxpY-XkKddUzqc/edit?usp=sharing)
+- 👨‍💻 All of my projects are available at [My skills and few work references](https://docs.google.com/document/d/17ipxvbKO3sEwGeavvLRzDiNpVHmrwvxpY-XkKddUzqc/edit?usp=sharing)
 
 - 📫 How to reach me **davidharutyunyan97@gmail.com**
 
