@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="images/github.gif" alt="Hello, I am David" />
-</p>
-
-<h3> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+<h3 align="center"> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
 
 
 ### Nerdy joke of the day
@@ -18,9 +14,6 @@
 
 </details>
 <!--END_SECTION:activity-->
-
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">💻 Game Developer | 📍 Yerevan, Armenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davianmachete&label=Profile%20views&color=0e75b6&style=flat" alt="davianmachete" /> </p>
 
