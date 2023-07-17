@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davianmachete" alt="davianmachete" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [My skills and few work references](https://docs.google.com/document/d/17ipxvbKO3sEwGeavvLRzDiNpVHmrwvxpY-XkKddUzqc/edit?usp=sharing)
+- 👨‍💻 All of my projects are available at [My skills](https://docs.google.com/document/d/1hyaS-d8swkxhtaa3ubZ2TpH0rNjUNAlX/edit?usp=sharing&ouid=111432912686156365204&rtpof=true&sd=true) and [few work references](https://docs.google.com/document/d/1PzuICk-04y4ywGiMZzHUDRNeyKh_U3EOMnY-qYXNp_4/edit?usp=sharing)
 
 - 📫 How to reach me **davidharutyunyan97@gmail.com**
 
