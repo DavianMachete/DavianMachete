@@ -4,7 +4,7 @@
 <h3 align="center"> Nerdy joke of the day</h3>
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" />
 </p>
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
