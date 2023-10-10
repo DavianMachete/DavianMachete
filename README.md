@@ -40,7 +40,7 @@
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://camo.githubusercontent.com/30c44016d9071a2853f6717d5a75e9ee1b97800d7c5ce8be5f5c87c71b0fcdf9/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d3134363032393135267468656d653d6461726b">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=20771651&theme=dark">
 
 
 - 👨‍💻 All of my projects are available at [My skills](https://docs.google.com/document/d/1hyaS-d8swkxhtaa3ubZ2TpH0rNjUNAlX/edit?usp=sharing&ouid=111432912686156365204&rtpof=true&sd=true) and [few work references](https://docs.google.com/document/d/1PzuICk-04y4ywGiMZzHUDRNeyKh_U3EOMnY-qYXNp_4/edit?usp=sharing)
