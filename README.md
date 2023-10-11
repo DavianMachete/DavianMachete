@@ -25,7 +25,7 @@
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davianmachete&show_icons=true&theme=merko&include_all_commits=true">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davianmachete&show_icons=true&theme=merko&include_all_commits=true">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://streak-stats.demolab.com?user=DavianMachete&theme=merko">
