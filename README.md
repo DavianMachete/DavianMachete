@@ -1,6 +1,6 @@
 <h3 align="center"> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
 
 ---
@@ -12,6 +12,7 @@
 </p>
 
 ---
+
 <!--Statistics start-->
 <details open>
   <summary>
