@@ -1,4 +1,7 @@
 <h3 align="center"> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
 
 
 <h3 align="center"> Nerdy joke of the day</h3>
@@ -7,9 +10,19 @@
 <img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" />
 </p>
 
+<!--Statistics start-->
+<details open>
+  <summary>
+    <h3> __________________________________________________________________________________ </h3>
+  </summary>
+
+<!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
+<p align="center">
+  <img src="https://i.imgur.com/eIL44CO.gif">
+  
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=davianmachete&show_icons=true&theme=merko&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=davianmachete&show_icons=true&theme=merko&include_all_commits=true">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://streak-stats.demolab.com?user=DavianMachete&theme=merko">
@@ -34,14 +47,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=DavianMachete&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
-
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=20771651&theme=dark">
 
+</details>
 
 - 👨‍💻 All of my projects are available at [My skills](https://docs.google.com/document/d/1hyaS-d8swkxhtaa3ubZ2TpH0rNjUNAlX/edit?usp=sharing&ouid=111432912686156365204&rtpof=true&sd=true) and [few work references](https://docs.google.com/document/d/1PzuICk-04y4ywGiMZzHUDRNeyKh_U3EOMnY-qYXNp_4/edit?usp=sharing)
 
