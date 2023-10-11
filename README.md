@@ -17,7 +17,7 @@
   <summary>
 <!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
 <p align="center">
-  <img src="https://i.imgur.com/eIL44CO.gif">
+  <img src="https://i.imgur.com/mCWhA8x.gif">
   </summary>
 
 ---
