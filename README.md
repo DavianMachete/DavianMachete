@@ -3,6 +3,7 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
 
+---
 
 <h3 align="center"> Nerdy joke of the day</h3>
 
@@ -10,15 +11,16 @@
 <img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" />
 </p>
 
+---
 <!--Statistics start-->
 <details open>
   <summary>
-    <h3> __________________________________________________________________________________ </h3>
-  </summary>
-
 <!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
 <p align="center">
   <img src="https://i.imgur.com/eIL44CO.gif">
+  </summary>
+
+---
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
