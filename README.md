@@ -12,13 +12,14 @@
 </p>
 
 ---
+---
 
 <!--Statistics start-->
 <details open>
-  <summary>
+  <summary align="center">
 <!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
-<p align="center">
-  <img src="https://i.imgur.com/mCWhA8x.gif">
+<!--<p align="left">-->
+  <img src="https://i.imgur.com/mCWhA8x.gif" height="40px"> </p>
   </summary>
 
 ---
@@ -37,24 +38,31 @@
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <!--<img src="https://camo.githubusercontent.com/4c9b0cae58669436ab35bea1fb32ad6b624fce8b46f94ca14d750ac2398fbdcc/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f26626f726465725f636f6c6f723d633966663030">-->
 
+---
+
 <!--🏆TROPHYGIF-->
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DavianMachete&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=DavianMachete&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
  
  <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DavianMachete&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy.vercel.app/?username=DavianMachete&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Issues,Organizations,Stars">
  </div>
+
+---
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=20771651&theme=dark">
 
 </details>
+
+---
+---
 
 - 👨‍💻 All of my projects are available at [My skills](https://docs.google.com/document/d/1hyaS-d8swkxhtaa3ubZ2TpH0rNjUNAlX/edit?usp=sharing&ouid=111432912686156365204&rtpof=true&sd=true) and [few work references](https://docs.google.com/document/d/1PzuICk-04y4ywGiMZzHUDRNeyKh_U3EOMnY-qYXNp_4/edit?usp=sharing)
 
