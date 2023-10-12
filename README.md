@@ -1,4 +1,5 @@
 <h3 align="center"> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
@@ -14,12 +15,12 @@
 ---
 ---
 
-<!--Statistics start-->
+<!--STATISTICS START-->
+
 <details open>
   <summary align="center">
 <!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
-<!--<p align="left">-->
-  <img src="https://i.imgur.com/mCWhA8x.gif" height="40px"> </p>
+  <img src="https://i.imgur.com/mCWhA8x.gif" height="40px"> 
   </summary>
 
 ---
@@ -36,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavianMachete&size_weight=0.5&count_weight=0.5&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<!--<img src="https://camo.githubusercontent.com/4c9b0cae58669436ab35bea1fb32ad6b624fce8b46f94ca14d750ac2398fbdcc/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7472696e6962267265706f3d416447756172642d5769726547756172642d556e626f756e642d444e536372797074267468656d653d6d65726b6f26626f726465725f636f6c6f723d633966663030">-->
+<!--<img src="">-->
 
 ---
 
@@ -64,25 +65,97 @@
 ---
 ---
 
-- 👨‍💻 All of my projects are available at [My skills](https://docs.google.com/document/d/1hyaS-d8swkxhtaa3ubZ2TpH0rNjUNAlX/edit?usp=sharing&ouid=111432912686156365204&rtpof=true&sd=true) and [few work references](https://docs.google.com/document/d/1PzuICk-04y4ywGiMZzHUDRNeyKh_U3EOMnY-qYXNp_4/edit?usp=sharing)
+<!--SKILLS START-->
 
-- 📫 How to reach me **david.unitydev@gmail.com**
+<details open>
+  <summary align="center">
+<!--CUSTOM TEXT GIF / 🌐WEBSITE: https://textanim.com/) -->
+  <img src="https://i.imgur.com/Uqce5b1.gif" height="40px"> 
+  </summary>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+<h1 align="center">🔧 Technical Skills:</h1>
+
+<h2 align="left">🖥️ Programming and Scripting:</h2>
+
+- C# Object-Oriented Programming
+- Clean Code and Architecture
+- SOLID Principles and Design Patterns for Unity
+- Scripting Language (Python - Basic, C++ - Basic)
+
+<h2 align="left">🎮 Game Development:</h2>
+
+- 3D Math
+- Game Asset Management (Meshes, Animations, Materials)
+- Custom UI & Animations
+- AR Development (Vuforia, ARKit, ARCore)
+- VR Development
+- Game Mechanics Design
+- Rapid Prototyping
+- Render Pipelines (Built-In, URP, HDRP)
+- Performance Optimization (GPU and CPU)
+- Blender 3D Editor
+- Multiplayer Development (Photon, PlayFab)
+
+<h2 align="left">🔌 Integration and Services:</h2>
+
+- Amazon and Google Services
+- Firebase Integration
+- In-App Functionality (Purchases, Search, Advertising)
+- Plugins Integration and Customization
+- APIs Integration
+- GitHub 🐱
+- GitLab 🦊
+
+<h2 align="left">📊 Project Management and Tools:</h2>
+
+- Version Control (Git, GitHub, GitLab)
+- Project Management Tools (Jira, Redmine, Trello, Slack)
+
+<h2 align="left">📲 App Store and Publishing:</h2>
+
+- App Store Publishing (Play Market, App Store, Amazon)
+
+---
+
+<h1 align="center">🌟 Additional Skills:</h1>
+
+- Communication 🗣️
+- Problem-Solving 🧩
+- Teamwork 🤝
+- Adaptability 🌱
+- Time Management ⏰
+- Leadership 🏆
+- Artistic Skills 🎨
+- Quality Assurance ✅
+- Mentoring and Coaching 📋
+- Mathematics 📐
+
+---
+
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="60">
-</h4>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" width="60">
+  <img src="https://i.imgur.com/pISOKfc.png" width="60">
+  <img src ="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" width="60">
+</p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davianmachete&show_icons=true&locale=en&layout=compact" alt="davianmachete" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davianmachete&show_icons=true&locale=en" alt="davianmachete" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=davianmachete&theme=great-gatsby&mode=weekly" alt="davianmachete" /></p>-->
+</details>
+
+---
+---
