@@ -9,7 +9,7 @@
 <h3 align="center"> Nerdy joke of the day</h3>
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" height="400" />
+<img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" height="250" />
 </p>
 
 ---
