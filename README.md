@@ -2,7 +2,7 @@
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge" height="400">
 
 ---
 
