@@ -63,6 +63,15 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+C#               5 hrs 47 mins   ███████████████▓░░░░░░░░░   62.77 %
+unity            3 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   36.00 %
+XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
