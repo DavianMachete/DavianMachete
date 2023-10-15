@@ -2,14 +2,14 @@
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge" height="400">
+<img src="https://komarev.com/ghpvc/?username=DavianMachete&color=0E9C47&style=for-the-badge">
 
 ---
 
 <h3 align="center"> Nerdy joke of the day</h3>
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" height="400" />
 </p>
 
 ---
