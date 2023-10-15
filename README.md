@@ -60,6 +60,11 @@
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=20771651&theme=dark">
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
 
 ---
