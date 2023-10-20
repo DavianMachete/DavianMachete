@@ -62,6 +62,9 @@
 
 ---
 
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_COMMIT-->
+
 <!--START_SECTION:waka-->
 
 ```txt
