@@ -63,7 +63,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328.0%20million%20lines%20of%20code-blue)
 
@@ -106,13 +106,14 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Other                    1 hr 29 mins        █████████████████████████   100.00 % 
+Other                    1 hr 47 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoogleChrome             1 hr 29 mins        █████████████████████████   100.00 % 
+GoogleChrome             1 hr 44 mins        ████████████████████████░   97.19 % 
+‎WhatsApp                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -127,7 +128,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2024 04:06:39 UTC
+ Last Updated on 18/01/2024 04:06:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
