@@ -156,16 +156,18 @@ Python                   1 repo              █░░░░░░░░░░�
 
 - C# Object-Oriented Programming
 - Clean Code and Architecture
-- SOLID Principles and Design Patterns for Unity
-- Scripting Language (Python - Basic, C++ - Basic)
+- SOLID, DRY, KISS, YAGNI Principles and Design Patterns for Unity
+- Python - Basic
+- C++ - Basic
+- IntelliJ, VS, VS Code
+- XCode
+- Android Studio
 
 <h2 align="left">🎮 Game Development:</h2>
 
 - 3D Math
-- Game Asset Management (Meshes, Animations, Materials)
+- Game Asset Management (AssetBundles, Meshes, Animations, Materials)
 - Custom UI & Animations
-- AR Development (Vuforia, ARKit, ARCore)
-- VR Development
 - Game Mechanics Design
 - Rapid Prototyping
 - Render Pipelines (Built-In, URP, HDRP)
@@ -173,20 +175,27 @@ Python                   1 repo              █░░░░░░░░░░�
 - Blender 3D Editor
 - Multiplayer Development (Photon, PlayFab)
 
+  
+<h2 align="left">🥽 AR/VR Development:</h2>
+
+- AR Development (Microsoft Azure, ArFoundation, Mediapipe, Vuforia, ARKit, ARCore)
+- VR Development
+
 <h2 align="left">🔌 Integration and Services:</h2>
 
-- Amazon and Google Services
+- AWS and Google Services
 - Firebase Integration
 - In-App Functionality (Purchases, Search, Advertising)
 - Plugins Integration and Customization
 - APIs Integration
+- Zenject, DoTween
 - GitHub 🐱
 - GitLab 🦊
 
 <h2 align="left">📊 Project Management and Tools:</h2>
 
 - Version Control (Git, GitHub, GitLab)
-- Project Management Tools (Jira, Redmine, Trello, Slack)
+- Project Management Tools (Jira, Notion, Trello, Slack)
 
 <h2 align="left">📲 App Store and Publishing:</h2>
 
@@ -206,6 +215,16 @@ Python                   1 repo              █░░░░░░░░░░�
 - Quality Assurance ✅
 - Mentoring and Coaching 📋
 - Mathematics 📐
+
+---
+<h1 align="center">⚔️ Devices Arsenal:</h1>
+
+- MacBook Pro (M1, 32Gb)
+- PC (Intel Core i7-13700K, NVIDIA GeForce RTX 3070, 32Gb)
+- Meta Quest 2
+- iPad Pro
+- iPhone 11
+- Poco X3 Pro
 
 ---
 
