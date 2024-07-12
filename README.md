@@ -1,4 +1,4 @@
-<h3 align="center"> 🧙‍♂️ David Harutyunyan | 💻 Game Developer | 📍 Yerevan, Armenia </h3>
+<h3 align="center">🧙‍♂️ David Harutyunyan | 💻 Game Developer</h3>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
