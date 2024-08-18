@@ -63,13 +63,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 345 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,13 +106,16 @@ Sunday                   343 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-unity                    1 hr 21 mins        █████████████████████████   100.00 % 
+unity                    1 hr 21 mins        █████████████████████░░░░   82.30 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 🔥 Editors: 
-Unity                    1 hr 21 mins        █████████████████████████   100.00 % 
+Unity                    1 hr 21 mins        █████████████████████░░░░   82.30 % 
+‎WhatsApp                17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 💻 Operating System: 
-Unknown OS               1 hr 21 mins        █████████████████████████   100.00 % 
+Unknown OS               1 hr 21 mins        █████████████████████░░░░   82.30 % 
+Mac                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
 
 **I Mostly Code in C#** 
@@ -126,7 +131,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2024 04:07:37 UTC
+ Last Updated on 18/08/2024 04:08:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
