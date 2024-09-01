@@ -226,6 +226,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 - MacBook Pro (M1, 32Gb)
 - PC (Intel Core i7-13700K, NVIDIA GeForce RTX 3070, 32Gb)
 - Meta Quest 2
+- Meta Quest 3
 - iPad Pro
 - iPhone 11
 - Poco X3 Pro
