@@ -63,34 +63,34 @@
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2025
+> 🏆 116 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 42 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 **I Mostly Code in C#** 
 
 ```text
-C#                       53 repos            ██████████████████████░░░   86.89 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+C#                       54 repos            ██████████████████████░░░   87.10 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 24/05/2025 04:08:48 UTC
+ Last Updated on 27/05/2025 04:12:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
