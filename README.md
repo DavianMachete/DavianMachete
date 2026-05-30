@@ -63,13 +63,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333.87%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C691%20hrs%2013%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 9.2 MB Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2026
+> 🏆 150 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +92,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 05:39:19 UTC
+ Last Updated on 30/05/2026 05:31:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
