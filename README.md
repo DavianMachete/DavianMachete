@@ -63,15 +63,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C691%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C698%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 9.2 MB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2026
+> 🏆 161 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,17 +82,17 @@
 **I Mostly Code in C#** 
 
 ```text
-C#                       56 repos            ██████████████████████░░░   86.15 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+C#                       57 repos            ██████████████████████░░░   86.36 % 
+ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 30/05/2026 05:31:17 UTC
+ Last Updated on 31/05/2026 05:43:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
