@@ -63,9 +63,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C194%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C196%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-🌆 Daytime                988 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-🌃 Evening                1523 commits        █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 Night                  1227 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+🌆 Daytime                1136 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+🌃 Evening                1793 commits        ██████████░░░░░░░░░░░░░░░   39.48 % 
+🌙 Night                  1274 commits        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   601 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Tuesday                  670 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Wednesday                658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 665 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Friday                   575 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Saturday                 396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Monday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Wednesday                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   670 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 ```
 
 
@@ -106,20 +106,18 @@ Sunday                   503 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-unity                    24 hrs 41 mins      ██████████████░░░░░░░░░░░   56.28 % 
-Other                    10 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-JavaScript               8 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+unity                    24 hrs 37 mins      ██████████████░░░░░░░░░░░   55.83 % 
+JavaScript               10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Other                    8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 
 🔥 Editors: 
-Chrome                   36 hrs 44 mins      █████████████████████░░░░   83.74 % 
-GitHubDesktop            6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Discord                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-NetBeans                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Unity                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Chrome                   37 hrs 33 mins      █████████████████████░░░░   85.15 % 
+GitHubDesktop            5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+NetBeans                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Discord                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Mac                      43 hrs 48 mins      █████████████████████████   99.87 % 
-Unknown OS               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Mac                      44 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -135,7 +133,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 06:39:51 UTC
+ Last Updated on 27/07/2026 07:13:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
