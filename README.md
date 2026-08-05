@@ -63,7 +63,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C971%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C981%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2023%20mins-blue?style=flat)
 
@@ -108,18 +108,19 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JavaScript               39 hrs 55 mins      █████████████████████░░░░   85.28 % 
-Other                    6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+JavaScript               39 hrs              ███████████████████░░░░░░   75.34 % 
+Other                    7 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+JSON                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 
 🔥 Editors: 
-Chrome                   39 hrs 44 mins      █████████████████████░░░░   84.91 % 
-GitHubDesktop            6 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Discord                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-NetBeans                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Chrome                   44 hrs 16 mins      █████████████████████░░░░   85.52 % 
+GitHubDesktop            6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Discord                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+NetBeans                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      46 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,7 +142,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 06:37:37 UTC
+ Last Updated on 05/08/2026 06:37:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
