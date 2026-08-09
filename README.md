@@ -63,11 +63,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C002%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C013%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -81,6 +81,54 @@
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                1136 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+🌃 Evening                1799 commits        ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌙 Night                  1274 commits        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Wednesday                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Thursday                 728 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Saturday                 413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Sunday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yerevan
+
+💬 Programming Languages: 
+JavaScript               30 hrs 57 mins      █████████████░░░░░░░░░░░░   53.28 % 
+JSON                     17 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+Other                    9 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+
+🔥 Editors: 
+Chrome                   46 hrs 8 mins       ████████████████████░░░░░   79.41 % 
+GitHubDesktop            8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+NetBeans                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Discord                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Mac                      58 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -94,7 +142,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 04:54:49 UTC
+ Last Updated on 09/08/2026 05:11:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
