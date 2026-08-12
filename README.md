@@ -63,7 +63,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C021%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C025%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2023%20mins-blue?style=flat)
 
@@ -108,19 +108,20 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JavaScript               33 hrs 19 mins      ██████████████░░░░░░░░░░░   55.06 % 
-JSON                     17 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Other                    9 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+JavaScript               29 hrs 35 mins      ██████████████░░░░░░░░░░░   54.47 % 
+JSON                     11 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+Other                    9 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Fork                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-Chrome                   48 hrs 31 mins      ████████████████████░░░░░   80.14 % 
-GitHubDesktop            8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-NetBeans                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Discord                  53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Chrome                   42 hrs 42 mins      ████████████████████░░░░░   78.60 % 
+GitHubDesktop            7 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+NetBeans                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Discord                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      60 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      54 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +143,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 05:15:07 UTC
+ Last Updated on 12/08/2026 05:41:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
