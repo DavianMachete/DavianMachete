@@ -63,7 +63,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C025%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C033%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2023%20mins-blue?style=flat)
 
@@ -108,20 +108,20 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JavaScript               29 hrs 35 mins      ██████████████░░░░░░░░░░░   54.47 % 
-JSON                     11 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Other                    9 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Fork                     3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               29 hrs 52 mins      ██████████████░░░░░░░░░░░   57.92 % 
+Fork                     11 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Other                    9 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Chrome                   42 hrs 42 mins      ████████████████████░░░░░   78.60 % 
-GitHubDesktop            7 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-NetBeans                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Discord                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Chrome                   40 hrs 22 mins      ████████████████████░░░░░   78.28 % 
+GitHubDesktop            6 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+NetBeans                 2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Discord                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      54 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +143,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 05:41:12 UTC
+ Last Updated on 13/08/2026 05:40:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
