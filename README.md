@@ -63,11 +63,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C078%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C084%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 Daytime                1139 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌃 Evening                1810 commits        ██████████░░░░░░░░░░░░░░░   39.47 % 
-🌙 Night                  1286 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                1136 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+🌃 Evening                1799 commits        ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌙 Night                  1274 commits        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 730 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   674 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sunday                   524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Monday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Wednesday                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Thursday                 728 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Saturday                 413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Sunday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 
 
@@ -108,19 +108,20 @@ Sunday                   524 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Fork                     32 hrs 19 mins      █████████████░░░░░░░░░░░░   52.80 % 
-JavaScript               20 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Other                    8 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+JavaScript               26 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.16 % 
+Fork                     24 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.42 % 
+Other                    7 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   52 hrs 53 mins      ██████████████████████░░░   86.41 % 
-GitHubDesktop            7 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-NetBeans                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Discord                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Chrome                   50 hrs 13 mins      ██████████████████████░░░   86.91 % 
+GitHubDesktop            6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+NetBeans                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Discord                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      61 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      57 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +143,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 04:43:26 UTC
+ Last Updated on 20/08/2026 04:42:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
