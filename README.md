@@ -63,7 +63,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C118%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C124%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%208%20mins-blue?style=flat)
 
@@ -73,7 +73,7 @@
 
 > 📦 9.2 MB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2026
+> 🏆 192 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-🌆 Daytime                1151 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-🌃 Evening                1851 commits        ██████████░░░░░░░░░░░░░░░   39.12 % 
-🌙 Night                  1351 commits        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌞 Morning                379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌆 Daytime                1152 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌃 Evening                1857 commits        ██████████░░░░░░░░░░░░░░░   39.18 % 
+🌙 Night                  1352 commits        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   733 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Wednesday                810 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Thursday                 739 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Saturday                 453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Sunday                   537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Monday                   737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  777 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Wednesday                810 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Thursday                 740 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Friday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Saturday                 455 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Sunday                   537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -108,24 +108,24 @@ Sunday                   537 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JavaScript               25 hrs 8 mins       █████████████░░░░░░░░░░░░   53.37 % 
-Other                    21 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.63 % 
+JavaScript               31 hrs 15 mins      ███████████████░░░░░░░░░░   58.92 % 
+Other                    21 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   41.08 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 47 mins      ████████████████░░░░░░░░░   65.35 % 
-GitHubDesktop            11 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-NetBeans                 3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Codex Vscode             40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Chrome                   36 hrs 44 mins      █████████████████░░░░░░░░   69.23 % 
+GitHubDesktop            11 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+NetBeans                 3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Codex Vscode             40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      47 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      53 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (1.58%)
+⏱ AI Coding Time: 44 mins (1.4%)
 
 ✍️ 0 lines written by AI, 569 lines written by hand (0.0% AI-written)
 
@@ -157,7 +157,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 10:25:19 UTC
+ Last Updated on 01/09/2026 09:15:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
