@@ -67,7 +67,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -81,71 +81,6 @@
  > 
 > 🔑 52 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-🌆 Daytime                1143 commits        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌃 Evening                1820 commits        ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌙 Night                  1280 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   712 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 736 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Friday                   674 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Saturday                 419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sunday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yerevan
-
-💬 Programming Languages: 
-JavaScript               5 hrs 10 mins       ██████████████████░░░░░░░   70.76 % 
-HTML                     2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-Chrome                   7 hrs 15 mins       █████████████████████████   99.21 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Discord                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 mins (0.78%)
-
-✍️ 76 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 543,796 Input Tokens, 5,607 Output Tokens
-
-💵 $1.40 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 1 AI Prompts
-
-Sonnet                   76 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 278 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -159,7 +94,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 09:11:45 UTC
+ Last Updated on 18/09/2026 08:48:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
