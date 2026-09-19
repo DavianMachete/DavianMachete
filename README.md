@@ -81,6 +81,67 @@
  > 
 > 🔑 52 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+🌆 Daytime                1146 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                1833 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌙 Night                  1294 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   719 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  764 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Thursday                 738 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Friday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Sunday                   526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yerevan
+
+💬 Programming Languages: 
+JavaScript               4 hrs 53 mins       █████████████████████████   99.55 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+🔥 Editors: 
+Chrome                   4 hrs 53 mins       █████████████████████████   99.55 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+💻 Operating System: 
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 min (0.45%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 274,287 Input Tokens, 362 Output Tokens
+
+💵 $0.56 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -94,7 +155,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 08:48:51 UTC
+ Last Updated on 19/09/2026 08:39:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
