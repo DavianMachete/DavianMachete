@@ -63,11 +63,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C191%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C198%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-325.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-🌆 Daytime                1143 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌃 Evening                1822 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌙 Night                  1282 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌞 Morning                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+🌆 Daytime                1141 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌃 Evening                1811 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌙 Night                  1281 commits        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   713 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 736 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Friday                   674 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sunday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Monday                   711 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 736 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Friday                   672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Sunday                   518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -108,19 +108,39 @@ Sunday                   520 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JavaScript               1 hr 35 mins        █████████████████████████   100.00 % 
+JavaScript               7 hrs 26 mins       █████████████████████████   98.23 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Chrome                   1 hr 35 mins        █████████████████████████   100.00 % 
+Chrome                   7 hrs 26 mins       █████████████████████████   98.23 % 
+GitHubDesktop            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (0.67%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 27,418 Input Tokens, 5,984 Output Tokens
+
+💵 $0.31 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 707 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -136,7 +156,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 09:08:56 UTC
+ Last Updated on 23/09/2026 09:11:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
